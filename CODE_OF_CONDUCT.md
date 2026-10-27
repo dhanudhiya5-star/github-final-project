@@ -18,9 +18,9 @@ Unacceptable behavior includes:
 - Sharing private information without permission.
 - Any behavior that makes the community unsafe.
 
-## Our Responsibilities
+## Enforcement Responsibilities
 
-Community members are responsible for maintaining a respectful environment and following these standards.
+Community leaders are responsible for clarifying and enforcing the standards of acceptable behavior. They may take appropriate and fair corrective action in response to behavior they consider inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
@@ -37,12 +37,10 @@ Project maintainers are responsible for clarifying and enforcing these standards
 3. **Temporary Suspension:** Temporary restriction from community participation.
 4. **Permanent Ban:** Permanent removal for serious or repeated violations.
 
+
+
+
 ## Attribution
 
-This Code of Conduct is based on community standards and principles of respect, inclusion, and accountability.
-
-
-## Enforcement Responsibilities
-
-Community leaders are responsible for clarifying and enforcing the standards of acceptable behavior. They may take appropriate and fair corrective action in response to behavior they consider inappropriate, threatening, offensive, or harmful.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
 
