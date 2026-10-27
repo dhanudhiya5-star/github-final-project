@@ -40,3 +40,9 @@ Project maintainers are responsible for clarifying and enforcing these standards
 ## Attribution
 
 This Code of Conduct is based on community standards and principles of respect, inclusion, and accountability.
+
+
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing the standards of acceptable behavior. They may take appropriate and fair corrective action in response to behavior they consider inappropriate, threatening, offensive, or harmful.
+
