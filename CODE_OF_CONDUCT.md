@@ -37,9 +37,6 @@ Project maintainers are responsible for clarifying and enforcing these standards
 3. **Temporary Suspension:** Temporary restriction from community participation.
 4. **Permanent Ban:** Permanent removal for serious or repeated violations.
 
-
-
-
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
